@@ -53,7 +53,9 @@ fish
 Florida
 french fry
 fresh
+friend
 gamer
+garden
 garlic
 gem
 giraffe
@@ -64,6 +66,7 @@ goose
 grape
 hat
 hedgehog
+heist
 helicopter
 hero
 horse
@@ -94,6 +97,7 @@ moon
 monster
 mountain
 murder
+museum
 ninja
 noodle
 octopus
