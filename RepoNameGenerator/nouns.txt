@@ -37,6 +37,7 @@ cookie
 country
 cowboy
 criminal
+curry
 dad
 death
 democracy
