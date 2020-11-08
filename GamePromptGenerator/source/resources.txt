@@ -13,6 +13,7 @@ food
 goods or items
 health
 information
+ingredients
 lives
 magic
 mana
@@ -23,6 +24,7 @@ production
 shops
 skills or traits
 stories
+technology
 time
 tools
 weapons
