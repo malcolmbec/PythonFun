@@ -2,7 +2,7 @@ acrobatic
 adorable
 adventurous
 aggressive
-all-American
+All-American
 ambiguous
 ancient
 angry
@@ -68,6 +68,7 @@ flawless
 fluffy
 foolish
 foreign
+fresh
 friendly
 funky
 galactic
@@ -88,7 +89,6 @@ hot
 horrible
 hopeless
 humdrum
-hurting
 illegal
 immense
 inconsolable
@@ -109,7 +109,7 @@ magic
 magical
 malicious
 massive
-mecha
+mech
 metal
 mindless
 modern
@@ -151,6 +151,7 @@ shiny
 sleepy
 slimy
 slippery
+smooth
 soft
 solid
 sonic

@@ -1,7 +1,6 @@
 alien
 America
 angel
-avatar
 baby
 banana
 balloon
@@ -14,6 +13,7 @@ Bob
 bomb
 book
 boy
+brain
 buffalo
 burger
 burrito
@@ -50,9 +50,9 @@ energy
 fashion
 fire
 fish
+flamingo
 Florida
 french fry
-fresh
 friend
 gamer
 garden
@@ -133,7 +133,6 @@ river
 robot
 rock
 rooster
-sailor
 school
 sheep
 shepherd
@@ -144,6 +143,7 @@ skeleton
 slayer
 soldier
 soap
+software
 soup
 space
 spaghetti
@@ -151,7 +151,7 @@ spider
 spoon
 snake
 squirrel
-store
+story
 Steve
 student
 sword
