@@ -5,9 +5,11 @@ communication
 competition
 complete a quest
 conquest
+creative expression
 defeat an enemy
 education
 escape
+experiment
 exploration
 helping others
 last one standing
@@ -15,7 +17,9 @@ master a skill
 protection
 save someone/thing
 save yourself
+simulation
 solve a mystery
+solve a puzzle
 success in business
 survival
 tell a story
