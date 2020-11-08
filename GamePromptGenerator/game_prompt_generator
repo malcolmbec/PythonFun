@@ -12,7 +12,7 @@ parser.add_argument('-g', '--goals', type=int, choices=switch.keys(), default=1,
                     help='the number of goals to generate')
 parser.add_argument('-rs', '--resources', type=int, choices=switch.keys(), default=1,
                     help='the number of resources to generate')
-parser.add_argument('-r', '--rules', type=int, choices=switch.keys(), default=1,
+parser.add_argument('-ru', '--rules', type=int, choices=switch.keys(), default=1,
                     help='the number of rules to generate')
 parser.add_argument('-th', '--themes', type=int, choices=switch.keys(), default=1,
                     help='the number of themes to generate')
