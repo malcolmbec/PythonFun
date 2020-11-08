@@ -5,7 +5,7 @@ avatar
 baby
 banana
 balloon
-bat
+Batman
 bear
 bees
 bird
@@ -13,8 +13,6 @@ blood
 Bob
 bomb
 book
-boomer
-bot
 boy
 buffalo
 burger
@@ -38,6 +36,7 @@ country
 cowboy
 criminal
 curry
+curtain
 dad
 death
 democracy
