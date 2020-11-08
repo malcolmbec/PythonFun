@@ -11,10 +11,12 @@ environment
 experience
 food
 goods or items
+health
 information
 lives
 magic
-mutation
+mana
+music
 NPCs
 power ups
 production

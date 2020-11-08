@@ -22,6 +22,7 @@ children's story
 colonization
 comedy
 coming of age
+community
 conspiracy
 construction
 crime
@@ -29,12 +30,14 @@ criminal justice
 culinary
 cyberpunk
 death is inevitable
+deception
 depression
 desert
 destruction
 disability
 dreams
 dystopia
+empathy
 espionage
 exercise
 extinction
@@ -45,6 +48,7 @@ fashion
 fighting
 folk horror
 forest or jungle
+forgiveness
 futuristic
 gambling
 generations
@@ -53,6 +57,7 @@ gothic
 government
 grief
 growth
+harem
 healing
 heroism
 hidden object
@@ -61,6 +66,8 @@ horror
 immortality
 imperialism
 infinite possibilities
+inspired by film
+inspired by poetry
 invasion
 investigation
 logic game
@@ -100,6 +107,7 @@ RPG
 romance
 science fiction
 school setting
+secrets
 shooter
 silence
 slice of life
@@ -125,3 +133,4 @@ urban
 utopia
 visual novel
 young adult
+zombies

@@ -1,9 +1,13 @@
 avoid being seen
 avoid enemies
 avoid obstacles
+black and white
 can only move forwards
+change goals
+change speed
 change the environment
 change the rules
+drawing is a mechanic
 failure isn't an option
 keep it simple
 kindness is a mechanic
@@ -14,15 +18,21 @@ limited space
 limited time
 one button
 one life
+one mechanic
 one minute
+open source
 manipulate time
 manipulate information
 maximize score
 minimize consequences
 music is a mechanic
 no inventory
+no good ending
 no main character
 no repetition
 no text
 non-human characters
+non-violent
+start at the end
+start at the middle
 try something new
