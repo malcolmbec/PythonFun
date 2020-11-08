@@ -51,6 +51,17 @@ class Color:
     END = '\033[1;37;0m'
 
 
+def capitalize_words(words: str, delim: str):
+    """ Capitalize words separated by spaces and specified delimiters """
+    cap = lambda d, w: d.join([s[:1].upper() + s[1:] for s in w.split(d)])
+
+    lst = words.split(" ")
+    for dm in delim:
+        lst = [cap(dm, w) for w in lst]
+
+    return " ".join(lst)
+
+
 def generate_options(num: int, name: str, color: Color, filename: str) -> str:
     """ Generate a number of options from a tile as text """
     possible_options = list_from_txt(filename)
@@ -58,7 +69,8 @@ def generate_options(num: int, name: str, color: Color, filename: str) -> str:
 
     text = ''
     for i in range(len(op)):
-        text += '{p} {n} is {c} {o}'.format(p=switch[i + 1], n=name, c=color, o=str(op[i]).title())
+        option = capitalize_words(str(op[i]), "-/")
+        text += '{p} {n} is {c} {o}'.format(p=switch[i + 1], n=name, c=color, o=option)
         text += Color.END + '\n'
 
     return text
