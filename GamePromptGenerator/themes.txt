@@ -23,6 +23,7 @@ coming of age
 conspiracy
 construction
 crime
+criminal justice
 culinary
 cyberpunk
 depression
@@ -46,6 +47,8 @@ gold rush
 gothic
 government
 grief
+growth
+healing
 heroism
 hidden object
 high fantasy
@@ -54,13 +57,14 @@ immortality
 imperialism
 invasion
 investigation
-justice
 logic game
 lost worlds
 magical realism
+mechanisms
 medicine
 medieval
 military
+mischief
 mobile game
 modern
 monsters
@@ -83,6 +87,7 @@ racing
 redemption
 regency
 religion
+revenge
 rhythm
 RPG
 romance
@@ -92,6 +97,7 @@ shooter
 silence
 slice of life
 small town
+social justice
 space opera
 sports
 stealth
@@ -104,6 +110,7 @@ text adventure
 time travel
 tower defence
 tragedy
+transmission
 trivia
 western
 underwater
