@@ -1,0 +1,73 @@
+#!/usr/bin/env/python3
+import random
+import argparse
+
+switch = {
+    1: 'Primary',
+    2: 'Secondary'
+}
+
+parser = argparse.ArgumentParser(description='Generate a game prompt.')
+parser.add_argument('-g', '--goals', type=int, choices=switch.keys(), default=1,
+                    help='the number of goals to generate')
+parser.add_argument('-rs', '--resources', type=int, choices=switch.keys(), default=1,
+                    help='the number of resources to generate')
+parser.add_argument('-r', '--rules', type=int, choices=switch.keys(), default=1,
+                    help='the number of rules to generate')
+parser.add_argument('-th', '--themes', type=int, choices=switch.keys(), default=1,
+                    help='the number of themes to generate')
+
+args = parser.parse_args()
+
+
+def list_from_txt(filename: str) -> list:
+    """ Generate list from lines in a text file """
+    file = open(filename, 'r')
+    result = [line.rstrip() for line in file.readlines()]
+    file.close()
+    return result
+
+
+def options_from_list(num: int, lst: list) -> list:
+    """ Generate a number of options from a list """
+    options = []
+    for i in range(num):
+        option = random.choice(lst)
+        lst.remove(option)
+        options.append(option)
+    return options
+
+
+class Color:
+    PURPLE = '\033[1;35;48m'
+    CYAN = '\033[1;36;48m'
+    BOLD = '\033[1;37;48m'
+    BLUE = '\033[1;34;48m'
+    GREEN = '\033[1;32;48m'
+    YELLOW = '\033[1;33;48m'
+    RED = '\033[1;31;48m'
+    BLACK = '\033[1;30;48m'
+    UNDERLINE = '\033[4;37;48m'
+    END = '\033[1;37;0m'
+
+
+def generate_options(num: int, name: str, color: Color, filename: str) -> str:
+    """ Generate a number of options from a tile as text """
+    possible_options = list_from_txt(filename)
+    op = options_from_list(num, possible_options)
+
+    text = ''
+    for i in range(len(op)):
+        text += '{p} {n} is {c} {o}'.format(p=switch[i + 1], n=name, c=color, o=str(op[i]).title())
+        text += Color.END + '\n'
+
+    return text
+
+
+prompt = ''
+prompt += generate_options(args.goals, 'Goal', Color.PURPLE, 'source/goals.txt')
+prompt += generate_options(args.resources, 'Resource', Color.CYAN, 'source/resources.txt')
+prompt += generate_options(args.rules, 'Rule', Color.RED, 'source/rules.txt')
+prompt += generate_options(args.themes, 'Theme', Color.YELLOW, 'source/themes.txt')
+
+print(prompt)
