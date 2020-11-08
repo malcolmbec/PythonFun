@@ -1,4 +1,4 @@
-battle evil
+battle a nemesis
 break the curse
 build relationships
 challenge an idea
@@ -8,7 +8,7 @@ competition
 complete a quest
 conquest
 creative expression
-defeat an enemy
+defeat enemies
 design
 education
 escape
@@ -23,12 +23,12 @@ raise awareness
 save someone/thing
 save yourself
 simulation
-socialize online
+socialize
 solve a mystery
 solve a problem
 solve a puzzle
-success in business
-survival
+succeed in business
+survive
 tell a story
 use every item
 
