@@ -42,7 +42,7 @@ def generate_name_white_space() -> str:
 
 def generate_name_snake_case() -> str:
     """ Generate name using snake case, ex. uh_oh_mountain """
-    return '_'.join(randoms)
+    return '_'.join(s.lower() for s in randoms)
 
 
 switch = {

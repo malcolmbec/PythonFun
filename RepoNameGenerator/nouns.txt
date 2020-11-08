@@ -51,7 +51,7 @@ fashion
 fire
 fish
 Florida
-french fries
+french fry
 fresh
 gamer
 garlic
@@ -78,7 +78,7 @@ Karen
 king
 kingdom
 knife
-kirby
+Kirby
 laser
 lobster
 machine
