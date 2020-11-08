@@ -6,8 +6,10 @@ change the environment
 change the rules
 failure isn't an option
 keep it simple
+kindness is a mechanic
 limited inventory
 limited information
+limited skill
 limited space
 limited time
 one button
