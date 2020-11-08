@@ -4,6 +4,7 @@ aliens
 alternate history
 alternate universe
 amnesia
+anthropomorphism
 anxiety
 AR/VR
 arctic
@@ -14,6 +15,7 @@ beat 'em up
 betrayal
 board game
 bounty hunters
+cause and effect
 card game
 casual
 children's story
@@ -26,6 +28,7 @@ crime
 criminal justice
 culinary
 cyberpunk
+death is inevitable
 depression
 desert
 destruction
@@ -38,6 +41,7 @@ extinction
 extreme
 fairy tale
 fantasy
+fashion
 fighting
 folk horror
 forest or jungle

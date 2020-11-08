@@ -2,6 +2,7 @@ avoid being seen
 avoid enemies
 avoid obstacles
 can only move forwards
+change the environment
 change the rules
 failure isn't an option
 keep it simple
@@ -12,12 +13,16 @@ limited time
 one button
 one life
 one minute
-manipulate the world
 manipulate time
+manipulate information
+maximize score
+minimize consequences
+music is a mechanic
 no inventory
 no main character
 no repetition
 no text
+non-human characters
 try something new
 
 
