@@ -42,6 +42,7 @@ fighting
 folk horror
 forest or jungle
 futuristic
+gambling
 generations
 gold rush
 gothic
@@ -55,6 +56,7 @@ high fantasy
 horror
 immortality
 imperialism
+infinite possibilities
 invasion
 investigation
 logic game
@@ -89,6 +91,7 @@ regency
 religion
 revenge
 rhythm
+risk-reward
 RPG
 romance
 science fiction
