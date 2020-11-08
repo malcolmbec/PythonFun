@@ -1,0 +1,113 @@
+accessibility
+adventure
+aliens
+alternate history
+alternate universe
+amnesia
+anxiety
+AR/VR
+arctic
+archaeology
+assassins
+battle arena
+beat 'em up
+betrayal
+board game
+bounty hunters
+card game
+casual
+children's story
+colonization
+comedy
+coming of age
+conspiracy
+construction
+crime
+culinary
+cyberpunk
+depression
+desert
+destruction
+disability
+dreams
+dystopia
+espionage
+exercise
+extinction
+extreme
+fairy tale
+fantasy
+fighting
+folk horror
+forest or jungle
+futuristic
+generations
+gold rush
+gothic
+government
+grief
+heroism
+hidden object
+high fantasy
+horror
+immortality
+imperialism
+invasion
+investigation
+justice
+logic game
+lost worlds
+magical realism
+medicine
+medieval
+military
+mobile game
+modern
+monsters
+mountains
+multiplayer
+musical
+mythology
+natural disaster
+occult
+outlaws
+paranormal
+parody
+party game
+philosophy
+politics
+poverty
+puzzle-solving
+psychological
+racing
+redemption
+regency
+religion
+rhythm
+RPG
+romance
+science fiction
+school setting
+shooter
+silence
+slice of life
+small town
+space opera
+sports
+stealth
+steampunk
+strategy
+superhero
+teamwork
+technology
+text adventure
+time travel
+tower defence
+tragedy
+trivia
+western
+underwater
+urban
+utopia
+visual novel
+young adult
