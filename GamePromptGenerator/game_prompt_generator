@@ -33,7 +33,7 @@ def options_from_list(num: int, lst: list) -> list:
     options = []
     for i in range(num):
         option = random.choice(lst)
-        lst.remove(option)
+        lst[:] = [s for s in lst if s != option]
         options.append(option)
     return options
 
