@@ -2,19 +2,19 @@
 import random
 import argparse
 
-switch = {
+choice = {
     1: 'Primary',
     2: 'Secondary'
 }
 
 parser = argparse.ArgumentParser(description='Generate a game prompt.')
-parser.add_argument('-g', '--goals', type=int, choices=switch.keys(), default=1,
+parser.add_argument('-g', '--goals', type=int, choices=choice.keys(), default=1,
                     help='the number of goals to generate')
-parser.add_argument('-rs', '--resources', type=int, choices=switch.keys(), default=1,
+parser.add_argument('-rs', '--resources', type=int, choices=choice.keys(), default=1,
                     help='the number of resources to generate')
-parser.add_argument('-ru', '--rules', type=int, choices=switch.keys(), default=1,
+parser.add_argument('-ru', '--rules', type=int, choices=choice.keys(), default=1,
                     help='the number of rules to generate')
-parser.add_argument('-th', '--themes', type=int, choices=switch.keys(), default=1,
+parser.add_argument('-th', '--themes', type=int, choices=range(1, 10), default=1,
                     help='the number of themes to generate')
 
 args = parser.parse_args()
@@ -62,24 +62,40 @@ def capitalize_words(words: str, delim: str):
     return " ".join(lst)
 
 
-def generate_options(num: int, name: str, color: Color, filename: str) -> str:
-    """ Generate a number of options from a tile as text """
+def generate_choice_options(num: int, name: str, color: Color, filename: str) -> str:
+    """ Generate a chosen number of options from a file as text """
     possible_options = list_from_txt(filename)
     op = options_from_list(num, possible_options)
 
     text = ''
-    for i in range(len(op)):
+    for i in range(num):
         option = capitalize_words(str(op[i]), "-/")
-        text += '{p} {n} is {c} {o}'.format(p=switch[i + 1], n=name, c=color, o=option)
+        text += '{p} {n} is {c} {o}'.format(p=choice[i + 1], n=name, c=color, o=option)
         text += Color.END + '\n'
 
     return text
 
 
+def generate_options(num: int, name: str, color: Color, filename: str):
+    """ Generate a number of options from a file as text """
+    possible_options = list_from_txt(filename)
+    op = options_from_list(num, possible_options)
+
+    option = capitalize_words(str(op[0]), "-/")
+    plural = ('s' if num > 1 else '', 'are' if num > 1 else 'is')
+    text = '{n}{s} {v} {c}{o}'.format(n=name, s=plural[0], v=plural[1], c=color, o=option)
+    for i in range(1, num):
+        option = capitalize_words(str(op[i]), "-/")
+        text += ', {o}'.format(o=option)
+    text += Color.END + '\n'
+
+    return text
+
+
 prompt = ''
-prompt += generate_options(args.goals, 'Goal', Color.PURPLE, 'source/goals.txt')
-prompt += generate_options(args.resources, 'Resource', Color.CYAN, 'source/resources.txt')
-prompt += generate_options(args.rules, 'Rule', Color.RED, 'source/rules.txt')
+prompt += generate_choice_options(args.goals, 'Goal', Color.PURPLE, 'source/goals.txt')
+prompt += generate_choice_options(args.resources, 'Resource', Color.CYAN, 'source/resources.txt')
+prompt += generate_choice_options(args.rules, 'Rule', Color.RED, 'source/rules.txt')
 prompt += generate_options(args.themes, 'Theme', Color.YELLOW, 'source/themes.txt')
 
 print(prompt)
