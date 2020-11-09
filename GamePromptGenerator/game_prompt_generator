@@ -70,7 +70,8 @@ def generate_choice_options(num: int, name: str, color: Color, filename: str) ->
     text = ''
     for i in range(num):
         option = capitalize_words(str(op[i]), "-/")
-        text += '{p} {n} is {c} {o}'.format(p=choice[i + 1], n=name, c=color, o=option)
+        p = '{p} '.format(p=choice[i + 1]) if num > 1 else ''
+        text += '{p}{n} is {c}{o}'.format(p=p, n=name, c=color, o=option)
         text += Color.END + '\n'
 
     return text
@@ -82,7 +83,7 @@ def generate_options(num: int, name: str, color: Color, filename: str):
     op = options_from_list(num, possible_options)
 
     option = capitalize_words(str(op[0]), "-/")
-    plural = ('s' if num > 1 else '', 'are' if num > 1 else 'is')
+    plural = ('s', 'are') if num > 1 else ('', 'is')
     text = '{n}{s} {v} {c}{o}'.format(n=name, s=plural[0], v=plural[1], c=color, o=option)
     for i in range(1, num):
         option = capitalize_words(str(op[i]), "-/")
