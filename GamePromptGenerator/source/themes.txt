@@ -1,5 +1,5 @@
 accessibility
-adventure
+adversity
 aliens
 alternate history
 alternate universe
@@ -30,16 +30,13 @@ criminal justice
 culinary
 cyberpunk
 death is inevitable
-deception
 depression
 desert
-destruction
 disability
 dreams
 dystopia
 empathy
 espionage
-exercise
 extinction
 extreme
 fairy tale
@@ -83,10 +80,10 @@ mobile game
 modern
 monsters
 mountains
-multiplayer
 musical
 mythology
 natural disaster
+never give up
 night
 occult
 outlaws
@@ -96,16 +93,12 @@ party game
 philosophy
 politics
 poverty
-puzzle-solving
 psychological
-racing
-redemption
 regency
 religion
 remix
 retro
 revelation
-revenge
 rhythm
 risk-reward
 RPG

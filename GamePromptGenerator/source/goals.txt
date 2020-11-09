@@ -1,4 +1,5 @@
 achieve the impossible
+adventure
 battle a nemesis
 be the best
 become a legend
@@ -10,22 +11,35 @@ collection
 communication
 competition
 complete a quest
+complete the mission
 conquest
+consume
 creative expression
+deception
 defeat a great evil
+discover a secret
 design
+destruction
 education
 escape
+exercise
+expansion
 experiment
 exploration
 find someone/thing
 fulfill a prophecy
 helping others
 journey to a destination
+keep a secret
 last one standing
 master a skill
+mastery
 protection
 raise awareness
+redemption
+revenge
+rise to power
+romance
 save someone/thing
 save yourself
 simulation
@@ -33,7 +47,9 @@ socialize
 solve a mystery
 solve a problem
 solve a puzzle
+steal an artifact
 succeed in business
 survive
 tell a story
 use every item
+win the race
