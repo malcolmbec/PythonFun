@@ -7,6 +7,7 @@ amnesia
 anthropomorphism
 anti-hero
 anxiety
+apocalyptic scenario
 AR/VR
 arctic
 archaeology
@@ -15,6 +16,7 @@ battle arena
 beat 'em up
 betrayal
 board game
+body modification
 bounty hunters
 bureaucracy
 capitalism
@@ -22,6 +24,7 @@ card game
 casual
 cause and effect
 censorship
+chaos
 children's story
 city life
 colonization
@@ -35,6 +38,7 @@ crime
 criminal justice
 culinary
 cute but deadly
+cybercrime
 cyberpunk
 death is inevitable
 debt
@@ -86,6 +90,7 @@ investigation
 library
 logic game
 lost worlds
+machines
 madness
 magical realism
 mechanisms
@@ -116,6 +121,7 @@ parody
 party game
 philosophy
 politics
+post-apocalypse
 poverty
 psychic
 psychological
@@ -128,6 +134,7 @@ resistance
 retro
 revelation
 rhythm
+rise and fall
 risk-reward
 RPG
 romance
@@ -150,6 +157,7 @@ supernatural
 swarm
 teamwork
 technology
+terrorism
 text adventure
 therapy
 time travel
@@ -164,6 +172,7 @@ witchcraft
 underwater
 urban
 utopia
+victimless crimes
 vision
 visual novel
 war
