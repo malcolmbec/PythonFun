@@ -57,7 +57,7 @@ def capitalize_words(words: str, delim: str):
 
     lst = words.split(" ")
     for dm in delim:
-        lst = [cap(dm, w) for w in lst]
+        lst[:] = [cap(dm, w) for w in lst]
 
     return " ".join(lst)
 
