@@ -63,6 +63,7 @@ heroism
 hidden object
 high fantasy
 horror
+identity
 immortality
 imperialism
 infinite possibilities
@@ -86,6 +87,7 @@ multiplayer
 musical
 mythology
 natural disaster
+night
 occult
 outlaws
 paranormal
@@ -100,6 +102,9 @@ racing
 redemption
 regency
 religion
+remix
+retro
+revelation
 revenge
 rhythm
 risk-reward
@@ -119,9 +124,11 @@ stealth
 steampunk
 strategy
 superhero
+swarm
 teamwork
 technology
 text adventure
+therapy
 time travel
 tower defence
 tragedy

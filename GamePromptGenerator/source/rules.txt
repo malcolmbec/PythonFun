@@ -1,31 +1,70 @@
+achievements
+art affects gameplay
+auction/bidding
+automate tasks to progress
 avoid being seen
 avoid enemies
 avoid obstacles
 black and white
+boss battles
+bounce off walls
+break the fourth wall
+break the game
+building is a mechanic
 can only move forwards
 change goals
 change speed
 change the environment
 change the rules
+cheat to win
+dancing is a mechanic
+decision by vote
+deck-building
+different game modes
 drawing is a mechanic
+driving is a mechanic
+each playthrough affects the next
+emotion is a mechanic
+end where you began
+endless gameplay
+enemies can't die
+expect the unexpected
 failure isn't an option
+flying is a mechanic
+fusion is a mechanic
+game within a game
+illusion of choice
 keep it simple
 kindness is a mechanic
+level system
 limited inventory
 limited information
 limited skill
 limited space
 limited time
+maintain the balance
+mix and match
+movement is the only mechanic
+narrative affects gameplay
+observation is key
 one button
+one level
 one life
 one mechanic
 one minute
+one use
+one vs. many
 open source
 manipulate time
+manipulate gravity
 manipulate information
+many beginnings, one ending
 maximize score
+memory is a mechanic
 minimize consequences
+music affects gameplay
 music is a mechanic
+negotiation is a mechanic
 no inventory
 no good ending
 no main character
@@ -33,6 +72,24 @@ no repetition
 no text
 non-human characters
 non-violent
+pattern recognition
+point and click
+pick-up and deliver
+PvP
+question and answer
+resource management
+roll the dice
+rotation is a mechanic
+sacrifice to progress
+scoring system
+second chance
+selection is a mechanic
+semi-cooperative
+speed is the enemy
 start at the end
 start at the middle
+talking is a mechanic
+teach to progress
 try something new
+turn-based
+two players, one character

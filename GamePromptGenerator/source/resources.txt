@@ -38,6 +38,9 @@ goods or items
 health
 health
 health
+hope
+influence
+influence
 information
 information
 information
