@@ -1,32 +1,82 @@
 abilities or mechanics
+abilities or mechanics
+abilities or mechanics
 artifacts
 avatars
+charisma
 choices
+choices
+choices
+choices
+choices
+clothing
 colors
+cosmetics
 companions
+currency
+currency
+currency
 currency
 death
 energy
+energy
+energy
+energy
+energy
 environment
 experience
+experience
+experience
+experience
+experience
+food
+food
 food
 goods or items
+goods or items
+goods or items
 health
+health
+health
+information
+information
 information
 ingredients
 lives
+lives
+lives
+lives
+lives
+magic
+magic
 magic
 mana
+movement
 music
 NPCs
 power ups
 production
 shops
 skills or traits
+skills or traits
+skills or traits
+spirit
+stories
+stories
 stories
 technology
+technology
+technology
+time
+time
 time
 tools
+tools
+tools
+weapons
+weapons
+weapons
+weapons
 weapons
 willpower or faith
 wisdom
