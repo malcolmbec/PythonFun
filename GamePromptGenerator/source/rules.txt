@@ -1,5 +1,6 @@
 achievements
 art affects gameplay
+assembly
 auction/bidding
 automate tasks to progress
 avoid being seen
@@ -11,11 +12,14 @@ avoid enemies
 avoid obstacles
 avoid obstacles
 avoid obstacles
+be yourself
 black and white
 boss battles
 bounce off walls
 break the fourth wall
 break the game
+break the rules
+break the rules
 building is a mechanic
 building is a mechanic
 building is a mechanic
@@ -37,6 +41,7 @@ decision by vote
 deck-building
 deck-building
 deck-building
+defy expectations
 different game modes
 different game modes
 drawing is a mechanic
@@ -169,9 +174,13 @@ start at the end
 start at the middle
 talking is a mechanic
 teach to progress
+trust no one
+trust no one
 try something new
 turn-based
 turn-based
 turn-based
 two players, one character
 two players, one character
+unreliable narrator
+unreliable narrator

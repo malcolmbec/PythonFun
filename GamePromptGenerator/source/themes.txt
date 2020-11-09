@@ -5,6 +5,7 @@ alternate history
 alternate universe
 amnesia
 anthropomorphism
+anti-hero
 anxiety
 AR/VR
 arctic
@@ -20,7 +21,9 @@ capitalism
 card game
 casual
 cause and effect
+censorship
 children's story
+city life
 colonization
 comedy
 coming of age
@@ -31,8 +34,10 @@ control
 crime
 criminal justice
 culinary
+cute but deadly
 cyberpunk
 death is inevitable
+debt
 depression
 desert
 disability
@@ -49,13 +54,17 @@ fantasy
 fashion
 fear
 fighting
+finding yourself
 folk horror
 forest or jungle
 forgiveness
+forgotten things
+friendship
 futuristic
 gambling
 generations
 gold rush
+good vs. evil
 gothic
 government
 grief
@@ -82,12 +91,16 @@ magical realism
 mechanisms
 medicine
 medieval
+memories
 military
 mischief
+misfits
 mobile game
 modern
 monsters
+mortality
 mountains
+moving on
 musical
 mysterious forces
 mythology
@@ -95,6 +108,8 @@ natural disaster
 never give up
 night
 occult
+ocean
+old age
 outlaws
 paranormal
 parody
@@ -102,11 +117,13 @@ party game
 philosophy
 politics
 poverty
+psychic
 psychological
 rebellion
 regency
 religion
 remix
+repair
 resistance
 retro
 revelation
@@ -117,6 +134,7 @@ romance
 science fiction
 school setting
 secrets
+senses
 shooter
 silence
 slice of life
@@ -139,14 +157,17 @@ tower defence
 tragedy
 transmission
 transportation
+trial
 trivia
 western
 witchcraft
 underwater
 urban
 utopia
+vision
 visual novel
 war
+water
 waves
 young adult
 zombies
