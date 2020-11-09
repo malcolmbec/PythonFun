@@ -15,9 +15,11 @@ beat 'em up
 betrayal
 board game
 bounty hunters
-cause and effect
+bureaucracy
+capitalism
 card game
 casual
+cause and effect
 children's story
 colonization
 comedy
@@ -25,6 +27,7 @@ coming of age
 community
 conspiracy
 construction
+control
 crime
 criminal justice
 culinary
@@ -36,12 +39,15 @@ disability
 dreams
 dystopia
 empathy
+environmental justice
 espionage
 extinction
 extreme
 fairy tale
+fake vs. real
 fantasy
 fashion
+fear
 fighting
 folk horror
 forest or jungle
@@ -68,8 +74,10 @@ inspired by film
 inspired by poetry
 invasion
 investigation
+library
 logic game
 lost worlds
+madness
 magical realism
 mechanisms
 medicine
@@ -81,6 +89,7 @@ modern
 monsters
 mountains
 musical
+mysterious forces
 mythology
 natural disaster
 never give up
@@ -94,9 +103,11 @@ philosophy
 politics
 poverty
 psychological
+rebellion
 regency
 religion
 remix
+resistance
 retro
 revelation
 rhythm
@@ -117,6 +128,7 @@ stealth
 steampunk
 strategy
 superhero
+supernatural
 swarm
 teamwork
 technology
@@ -126,11 +138,15 @@ time travel
 tower defence
 tragedy
 transmission
+transportation
 trivia
 western
+witchcraft
 underwater
 urban
 utopia
 visual novel
+war
+waves
 young adult
 zombies
