@@ -14,6 +14,6 @@ A simple prompt generator for making a game. The prompt generated takes the form
 
 - **Resources**: things that are managed by the player and that may affect the goal(s)
 
-- **Rules**: mechanics or constraints for interacting with the core game loop i.e. how the player achieves the goal(s)
+- **Rules**: mechanics or constraints for interacting with the core game loop OR designing the game i.e. how the player achieves the goal(s) OR challenges for the developer(s)
 
 ### How to Use

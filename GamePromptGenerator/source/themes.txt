@@ -34,6 +34,7 @@ community
 conspiracy
 construction
 control
+creatures
 crime
 criminal justice
 culinary
@@ -44,8 +45,10 @@ death is inevitable
 debt
 depression
 desert
+dinosaurs
 disability
 dreams
+dynasty
 dystopia
 empathy
 environmental justice
@@ -59,6 +62,7 @@ fashion
 fear
 fighting
 finding yourself
+fix it
 folk horror
 forest or jungle
 forgiveness
@@ -77,6 +81,7 @@ harem
 healing
 heroism
 hidden object
+hidden worlds
 high fantasy
 horror
 identity
@@ -98,6 +103,7 @@ medicine
 medieval
 memories
 military
+mirror
 mischief
 misfits
 mobile game
@@ -123,6 +129,7 @@ philosophy
 politics
 post-apocalypse
 poverty
+procedural
 psychic
 psychological
 rebellion
@@ -154,7 +161,9 @@ steampunk
 strategy
 superhero
 supernatural
+supply & demand
 swarm
+systems
 teamwork
 technology
 terrorism
